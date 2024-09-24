@@ -1,0 +1,116 @@
+.music_home_page {
+    background-color: #03174c;
+    background-size: cover;
+    height: 100vh;
+}
+
+.music_container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-stars-bg.png");
+    height: 40vh;
+    background-size: cover;
+    color: #ffffff;
+    padding: 30px;
+}
+
+.main_head {
+    font-family: Bree Serif;
+    font-size: 28px;
+}
+
+.main_para {
+    font-family: Bree Serif;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.music_sub_container {
+    padding: 30px;
+}
+
+.music_bg_container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-bg.png");
+    height: 25vh;
+    background-size: cover;
+    padding: 30px;
+}
+
+.music_heading {
+    color: #ffffff;
+    font-family: Bree Serif;
+    font-size: 28px;
+}
+
+.music_paragraph {
+    color: #ffffff;
+    font-family: Bree Serif;
+    font-size: 12px;
+    padding: 4px;
+}
+
+.button {
+    background-color: #8e97fd;
+    color: #ffffff;
+    border-radius: 12px;
+    border-width: 0px;
+    height: 32px;
+    width: 110px;
+    margin-left: 10px;
+}
+
+.music_detailed_view {
+    background-color: #03174c;
+    background-size: cover;
+}
+
+.music_bg_detailed {
+    width: 100vw;
+}
+
+.detailed_container {
+    padding: 10px;
+}
+
+.detailed_head {
+    color: #ffffff;
+    font-family: Bree Serif;
+    font-size: 30px;
+}
+
+.detailed_para {
+    color: #98a1bd;
+    font-family: Bree Serif;
+    font-size: 13px;
+}
+
+.detailed_descr {
+    color: #98a1bd;
+    font-family: Bree Serif;
+    font-size: 15px;
+}
+
+.detailed_sub_head {
+    color: #ffffff;
+    font-family: Bree Serif;
+    font-size: 22px;
+    margin-left: 10px;
+}
+
+.image {
+    width: 40vw;
+    margin-bottom: 3px;
+    margin-left: 10px;
+}
+
+.detailed_sub_heading {
+    color: #ffffff;
+    font-family: Bree Serif;
+    font-size: 15px;
+    margin-left: 10px;
+}
+
+.detailed_sub_para {
+    color: #98a1bd;
+    font-family: Bree Serif;
+    font-size: 14px;
+    margin-left: 10px;
+}
